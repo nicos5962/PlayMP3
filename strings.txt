@@ -1,0 +1,7 @@
+# String file for PlayMP3 plugin
+
+PLUGIN_PLAYMP3
+	EN	Play MP3
+
+PLUGIN_PLAYMP3_DESC
+	EN	Keeps different releases of the same album apart using the Discogs release id, with scanner-safe registration
